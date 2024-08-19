@@ -1,0 +1,38 @@
+/* 
+blow 1421(smaller desktab)
+
+*/
+@media(max-width:84em)
+{
+    .div1{
+        max-width: 120rem;
+    }
+    .img5{
+        max-width: 19rem;}
+    .div16{ 
+        gap:5rem
+    }
+}
+/* tablet */
+    @media(max-width:75em){
+        html{
+            font-size: 52.25%;
+        }
+        .img5{
+            max-width: 18rem;}
+        .div16{ 
+            gap:8rem}
+    } 
+
+/* mmm tablet */
+
+@media(max-width:61em){
+html{font-size: 46%;}
+
+.img5{
+    max-width: 15rem;}
+.div16{ 
+    gap:6rem}
+   
+
+}
